@@ -1,2 +1,2 @@
 # webgenvisualizerclinicaltable
-Graphical visualizations with the Clinical Table Search Service API
+Graphical visualizations with the OpenFDA API
